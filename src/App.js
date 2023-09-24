@@ -8,6 +8,7 @@ export const ACTIONS = {
   EVALUATE: "evaluate",
   CLEAR: "clear",
   DELETE_DIGIT: "delete-digit",
+  // extra key
 };
 
 function reducer(state, { type, payload }) {
