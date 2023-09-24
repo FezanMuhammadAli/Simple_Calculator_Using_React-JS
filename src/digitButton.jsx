@@ -1,5 +1,5 @@
 import { ACTIONS } from "./App";
-
+ 
 export function DigitButton({ dispatch, digit }) {
   return (
     <button
